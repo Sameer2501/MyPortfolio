@@ -4,6 +4,9 @@ import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
+import expressLogo from './assets/tech_logo/expressLogo.png';
+import nodeLogo from './assets/tech_logo/nodeLogo.png';
+import mongodbLogo from './assets/tech_logo/mongoLogo.png';
 
 import figmaLogo from './assets/tech_logo/figma.png';
 import canvaLogo from './assets/tech_logo/canva.png';
@@ -30,7 +33,7 @@ import pcsLogo from './assets/education_logo/pcs.png';
   
 export const skillsInfo = [
   {
-    title: 'Frontend',
+    title: 'Web Development',
     skills: [
       { name: 'HTML', logo: htmlLogo },
       { name: 'CSS', logo: cssLogo },
@@ -38,6 +41,9 @@ export const skillsInfo = [
       { name: 'ReactJS', logo: reactjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
+      { name: 'ExpressJS', logo: expressLogo },
+      { name: 'NodeJS', logo: nodeLogo },
+      { name: 'MongoDB', logo: mongodbLogo },
     ],
   },
   {
@@ -71,10 +77,10 @@ export const experiences = [
     {
       id: 0,
       img: FrontendLogo,
-      role: "Frontend Developer",
+      role: "Web Development",
       company: "SVIET",
       date: " AUGUST 2024 ",
-      desc: "Built multiple responsive websites using HTML, CSS, JavaScript, and React.Practiced modern UI/UX using Tailwind CSS, animation libraries (like AOS, Framer Motion). Developed 5+ projects including a portfolio site, task manager, and event RSVP system.",
+      desc: "Built multiple responsive websites using HTML, CSS, JavaScript, and React.Practiced modern UI/UX using Tailwind CSS, animation libraries (like AOS, Framer Motion). Developed 5+ projects including a portfolio site,       collegeGpt and a chatbot application.",
       skills: [
         "HTML",
         "CSS",
@@ -83,6 +89,11 @@ export const experiences = [
         "Tailwind CSS",
         "Bootstrap",
         "AOS",
+        "Framer Motion",
+        "API",
+        "Mongodb",
+        "Express JS",
+        "Node JS",
       ],
     },
     {
