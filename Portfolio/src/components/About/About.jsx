@@ -50,9 +50,8 @@ const About = () => {
             Enthusiastic and self-driven Computer Science student with hands-on experience in frontend development .
             Passionate about startups, content creation, and leveraging AI tools for productivity . Quick learner with a creative mindset, strong problem-solving abilities, and a goal to make meaningful real-world impact through tech and innovation.
           </p>
-
           <a
-            href="https://drive.google.com/file/d/1fvMaC-e4etO3qAyru8qnOTGnW5stkM-E/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1gzcN2fMWrZO5fKvNazz_QdvRFNH8D4VF/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full text-lg font-bold transition duration-300 transform hover:scale-105"
