@@ -30,7 +30,7 @@ const About = () => {
               <Typewriter
                 words={[
                     'Coder',
-                  'Frontend Developer',
+                  'Web Developer',
                   'Graphic Designer',
                   'Student'
                   ,

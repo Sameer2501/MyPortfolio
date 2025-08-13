@@ -25,6 +25,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import FrontendLogo from './assets/company_logo/frontend.png';
 import DesigningLogo from './assets/company_logo/graphic.png';
 import projectLogo from './assets/ai-bot.png';
+import gptLogo from './assets/image.png'
 //school logo
 import SVIETLogo from './assets/education_logo/sviet.png';
 import SchoolLogo from './assets/education_logo/school.png';
@@ -122,6 +123,16 @@ export const experiences = [
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github: "https://github.com/Sameer2501/My-Projects/tree/main/Chat-AI",
       webapp: "https://my-projects-v291.vercel.app/",
+    },
+    {
+      id: 1,
+      title: "CollegeGPT",
+      description:
+        "CollegeGPT is an AI-powered chatbot designed to make exploring Swami Vivekanand Institute of Engineering & Technology (SVIET) effortless and interactive. Built with a Node.js + Express backend and a React + Tailwind CSS frontend, it combines the power of the Gemini/OpenAI API with a custom-curated JSON dataset to deliver accurate, instant answers about courses, placements, fees, hostel rules, campus layout, and special programs like Super 60 and The Uniques. Whether you’re a fresher, a parent, or a prospective student, CollegeGPT replaces long website searches with a simple, engaging chat experience, complete with structured placement insights, campus navigation, and hostel guidelines—all accessible in seconds.",
+      image: gptLogo,
+      tags: ["JavaScript", "React JS", "API","NodeJs","ExpressJs","MongoDB","Gemini API"],
+      github: "https://github.com/Sameer2501/CollegeGPT",
+      webapp: "https://college-gpt-dmi3.vercel.app/",
     },
   ]
   export const school=[
