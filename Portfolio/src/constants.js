@@ -26,6 +26,7 @@ import FrontendLogo from './assets/company_logo/frontend.png';
 import DesigningLogo from './assets/company_logo/graphic.png';
 import projectLogo from './assets/ai-bot.png';
 import gptLogo from './assets/image.png'
+import cryptoLogo from './assets/crypto-app.png'
 //school logo
 import SVIETLogo from './assets/education_logo/sviet.png';
 import SchoolLogo from './assets/education_logo/school.png';
@@ -133,6 +134,16 @@ export const experiences = [
       tags: ["JavaScript", "React JS", "API","NodeJs","ExpressJs","MongoDB","Gemini API"],
       github: "https://github.com/Sameer2501/CollegeGPT",
       webapp: "https://college-gpt-dmi3.vercel.app/",
+    },
+    {
+      id: 2,
+      title: "CryptoVerse",
+      description:
+        "The **Cryptoverse App** is a comprehensive cryptocurrency tracking platform that offers real-time market data, interactive charts, exchange details, and the latest news. Users can explore detailed insights into coins, view historical trends, and stay updated with live price movements. Designed for both beginners and traders, Cryptoverse helps make smarter investment decisions with accurate, reliable, and user-friendly crypto information.",
+      image: cryptoLogo,
+      tags: ["JavaScript", "React JS", "CoinGecko API","ChartsJs"],
+      github: "https://github.com/Sameer2501/crypto-app",
+      webapp: "https://crypto-app-dusky-five.vercel.app/",
     },
   ]
   export const school=[
